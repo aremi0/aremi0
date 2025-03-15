@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Gabriele Pasarello</h1>
+<h1 align="center">Hi 👋, I'm Gabriele Passarello</h1>
 <p align="center">
     <a href="https://github.com/aremi0" target="__blank"><img alt="GitHub" title="Follow me on Github!"
             src="https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white" /></a>
